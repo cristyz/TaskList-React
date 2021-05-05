@@ -1,0 +1,39 @@
+header{
+    color: #00adb5;
+    width: 90%;
+    height: 20%;
+}
+header h1{
+    margin: 10px 0;
+}
+
+.header-input{
+    display: flex;
+}
+.header-input input{
+    width: 100%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1px;
+    padding: 5px;
+}
+
+.header-input .button-add{
+    margin-left: 8px;
+}
+
+.input-description{
+    width: 100%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1px;
+    padding: 5px;
+    margin-top: 10px;
+    height: 50px;
+}

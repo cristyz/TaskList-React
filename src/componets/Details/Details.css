@@ -1,0 +1,38 @@
+.container-details{
+    width: 90%;
+    min-height: 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 30px;
+}
+.container-details h1{
+    color: #00adb5;
+}
+
+.container-details p{
+    font-style: italic;
+    color: #EEE;
+}
+
+.header-details{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #00adb5;
+}
+.header-details h1{
+    width: 80%;
+    word-wrap: break-word;
+    max-lines: 5;
+}
+
+.date-hora p{
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #00adb5;
+    flex-direction: column;
+}

@@ -1,0 +1,36 @@
+.body-container{
+
+    width: 95%;
+}
+
+.task-container{
+    margin: 10px 5px;
+    background-color: #393e46;
+    padding: 10px;
+    border-radius: 10px;
+    color: #EEE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-info{
+    padding: 2px;
+    color: #222831;
+    background-color: #00adb5;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 11px;
+    margin: 0 4px;
+}
+
+.container-buttons{
+    min-width: 20%;
+    display: flex;
+}
+
+.task-name{
+    width: 80%;
+    cursor: pointer;
+}
